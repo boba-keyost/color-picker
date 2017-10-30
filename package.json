@@ -34,7 +34,6 @@
   },
   "style": "./assets/index.css",
   "scripts": {
-    "postinstall": "rc-tools run compile",
     "build": "rc-tools run build",
     "gh-pages": "rc-tools run gh-pages",
     "start": "rc-tools run server",
